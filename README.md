@@ -2,7 +2,9 @@
 
 By BRH for DUNCHA France.
 
-This Program monitors your raspberry pi 3B CPU's temperature. 
+This Program monitors your raspberry pi 3B CPU's temperature from your raspbian Terminal.
+
+It refreshes automatically.
 
 # Usage
 
