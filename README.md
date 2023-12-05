@@ -13,14 +13,14 @@ Then run
 make
 ```
 
+the program should compile and run, then clear automatically
+
 or compile it youself as it is very simple :
 
 ```
 g++ main.cpp -o main
 ./main
 ```
-
-the program should compile and run, then clear automatically
 
 # if you want to use it as a regular CLI binary command
 
